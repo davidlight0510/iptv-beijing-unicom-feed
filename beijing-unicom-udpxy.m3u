@@ -1,23 +1,23 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 
 # Source: IPTV-Unicom-Multicast.m3u
-#EXTINF:-1 tvg-name="北京卫视" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",BRTV北京卫视[超清HDR]
+#EXTINF:-1 tvg-name="BRTV北京卫视" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",BRTV北京卫视[超清HDR]
 http://192.168.50.1:23234/rtp/239.3.1.118:8001
-#EXTINF:-1 tvg-name="BTV新闻" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png",BRTV新闻[高清]
+#EXTINF:-1 tvg-name="BRTV新闻" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png",BRTV新闻[高清]
 http://192.168.50.1:23234/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-name="BTV影视" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86.png",BRTV影视[高清]
+#EXTINF:-1 tvg-name="BRTV影视" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86.png",BRTV影视[高清]
 http://192.168.50.1:23234/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-name="BTV文艺" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA.png",BRTV文艺[高清]
+#EXTINF:-1 tvg-name="BRTV文艺" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA.png",BRTV文艺[高清]
 http://192.168.50.1:23234/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-name="BTV财经" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F.png",BRTV财经[高清]
+#EXTINF:-1 tvg-name="BRTV财经" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F.png",BRTV财经[高清]
 http://192.168.50.1:23234/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-name="BTV生活" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E7%94%9F%E6%B4%BB.png",BRTV生活[高清]
+#EXTINF:-1 tvg-name="BRTV生活" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E7%94%9F%E6%B4%BB.png",BRTV生活[高清]
 http://192.168.50.1:23234/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-name="BTV科教" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png",BRTV纪实科教[高清]
+#EXTINF:-1 tvg-name="BRTV纪实科教" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png",BRTV纪实科教[高清]
 http://192.168.50.1:23234/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-name="卡酷动画" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",BRTV卡酷少儿[高清]
+#EXTINF:-1 tvg-name="BRTV卡酷少儿" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",BRTV卡酷少儿[高清]
 http://192.168.50.1:23234/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-name="BTV体育" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png",BRTV体育休闲[高清]
+#EXTINF:-1 tvg-name="BRTV体育休闲" group-title="北京频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png",BRTV体育休闲[高清]
 http://192.168.50.1:23234/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="BRTV国际频道" group-title="北京频道",BRTV国际频道[超清]
 http://192.168.50.1:23234/rtp/239.3.1.235:8000
@@ -67,7 +67,7 @@ http://192.168.50.1:23234/rtp/239.3.1.245:2000
 http://192.168.50.1:23234/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="爱上4K" group-title="超高清频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E7%88%B1%E4%B8%8A4K.png",爱上4K[超清]
 http://192.168.50.1:23234/rtp/239.3.1.236:2000
-#EXTINF:-1 tvg-name="淘电影" group-title="影视剧场",淘电影[高清]
+#EXTINF:-1 tvg-name="淘电影" group-title="北京IPTV",淘电影[高清]
 http://192.168.50.1:23234/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="重温经典" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png",重温经典[高清]
 http://192.168.50.1:23234/rtp/239.3.1.25:8001
@@ -89,13 +89,13 @@ http://192.168.50.1:23234/rtp/239.3.1.195:9024
 http://192.168.50.1:23234/rtp/239.3.1.58:8156
 #EXTINF:-1 tvg-name="地理" group-title="纪实纪录" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png",地理[高清]
 http://192.168.50.1:23234/rtp/239.3.1.71:4120
-#EXTINF:-1 tvg-name="淘剧场" group-title="影视剧场",淘剧场[高清]
+#EXTINF:-1 tvg-name="淘剧场" group-title="北京IPTV",淘剧场[高清]
 http://192.168.50.1:23234/rtp/239.3.1.95:8001
-#EXTINF:-1 tvg-name="淘娱乐" group-title="其他频道",淘娱乐[高清]
+#EXTINF:-1 tvg-name="淘娱乐" group-title="北京IPTV",淘娱乐[高清]
 http://192.168.50.1:23234/rtp/239.3.1.100:8001
-#EXTINF:-1 tvg-name="淘Baby" group-title="其他频道",淘Baby[高清]
+#EXTINF:-1 tvg-name="淘Baby" group-title="北京IPTV",淘Baby[高清]
 http://192.168.50.1:23234/rtp/239.3.1.238:8001
-#EXTINF:-1 tvg-name="萌宠TV" group-title="其他频道",萌宠TV[高清]
+#EXTINF:-1 tvg-name="萌宠TV" group-title="北京IPTV",萌宠TV[高清]
 http://192.168.50.1:23234/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视[超清HDR]
 http://192.168.50.1:23234/rtp/239.3.1.112:3002
@@ -165,8 +165,6 @@ http://192.168.50.1:23234/rtp/239.3.1.41:8140
 http://192.168.50.1:23234/rtp/239.3.1.44:8184
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
 http://192.168.50.1:23234/rtp/239.3.1.43:8176
-#EXTINF:-1 tvg-name="中国交通频道" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png",中国交通[高清]
-http://192.168.50.1:23234/rtp/239.3.1.188:8001
 #EXTINF:-1 tvg-name="IPTV少儿动画" group-title="少儿频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/IPTV%E5%B0%91%E5%84%BF%E5%8A%A8%E7%94%BB.png",少儿动画[高清]
 http://192.168.50.1:23234/rtp/239.3.1.199:9000
 #EXTINF:-1 tvg-name="动画" group-title="少儿频道",动画[高清]
@@ -195,22 +193,6 @@ http://192.168.50.1:23234/rtp/239.3.1.218:4220
 http://192.168.50.1:23234/rtp/239.3.1.219:4220
 #EXTINF:-1 tvg-name="CGTN 俄语" group-title="国际频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/CGTN%E4%BF%84%E8%AF%AD.png",CGTN 俄语[高清]
 http://192.168.50.1:23234/rtp/239.3.1.220:4220
-#EXTINF:-1 tvg-name="睛彩竞技" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E7%9D%9B%E5%BD%A9%E7%AB%9E%E6%8A%80.png",睛彩竞技[高清]
-http://192.168.50.1:23234/rtp/239.3.1.125:8001
-#EXTINF:-1 tvg-name="睛彩篮球" group-title="体育频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83.png",睛彩篮球[高清]
-http://192.168.50.1:23234/rtp/239.3.1.126:8001
-#EXTINF:-1 tvg-name="睛彩青少" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E7%9D%9B%E5%BD%A9%E9%9D%92%E5%B0%91.png",睛彩青少[高清]
-http://192.168.50.1:23234/rtp/239.3.1.127:8001
-#EXTINF:-1 tvg-name="解密" group-title="其他频道",解密[高清]
-http://192.168.50.1:23234/rtp/239.3.1.75:4120
-#EXTINF:-1 tvg-name="军事" group-title="其他频道",军事[高清]
-http://192.168.50.1:23234/rtp/239.3.1.76:4120
-#EXTINF:-1 tvg-name="戏曲" group-title="其他频道",戏曲[高清]
-http://192.168.50.1:23234/rtp/239.3.1.78:4120
-#EXTINF:-1 tvg-name="武术" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png",武术[高清]
-http://192.168.50.1:23234/rtp/239.3.1.87:4120
-#EXTINF:-1 tvg-name="足球" group-title="体育频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E8%B6%B3%E7%90%83%E9%A2%91%E9%81%93.png",足球[高清]
-http://192.168.50.1:23234/rtp/239.3.1.89:4120
 #EXTINF:-1 tvg-name="中国教育1台" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png",CETV1[高清]
 http://192.168.50.1:23234/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-name="中国教育2台" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/davidlight0510/iptv-beijing-unicom-feed/main/logos/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png",CETV2
